@@ -10,6 +10,5 @@ data2/*
 .dat
 !/.dat
 
-Main.class
-User.class
+*.class
 passwords.dat
